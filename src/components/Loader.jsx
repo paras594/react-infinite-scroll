@@ -18,7 +18,7 @@ const Spinner = styled.div`
 	position: relative;
 `;
 
-const spacing = "5px";
+const spacing = "10%";
 
 const OuterRing = styled.div`
 	position: absolute;
