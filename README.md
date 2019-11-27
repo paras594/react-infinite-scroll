@@ -1,6 +1,6 @@
 # React Infinite Scroll - Books Title Search
 
-Simple React book search app with infinite scroll functionality. Infinite scroll is when you reach the end of content or page, app loads more data from API, similar to instagram, facebook, youtube scroll. 
+Simple React book search app with infinite scroll functionality. Infinite scroll is when you reach the end of content or page, app loads more data from API, similar to instagram, facebook, youtube scroll.  [Live Demo](https://react-book-search.netlify.com/)
 
 ![](./readme-assets/infinite-scroll.gif)
 
